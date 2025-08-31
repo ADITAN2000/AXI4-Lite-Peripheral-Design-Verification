@@ -5,3 +5,16 @@ This project implements a custom AXI4-Lite slave peripheral in Verilog, verified
 - Synthesizable RTL design, verified via testbench.
 - Compatible with FPGA integration in Xilinx Vivado.
 - Modular and extendable for additional peripherals.
+
+🔧 Applications
+-FPGA-based SoC designs
+-Memory-mapped register interfaces
+-Custom IP peripheral development
+
+🎯Learning Outcomes
+-Through this project, I gained hands-on experience in:
+-AXI4-Lite protocol implementation.
+-Writing synthesizable RTL in Verilog.
+-Designing a self-checking testbench for verification.
+-Debugging and verifying simulation waveforms.
+-Packaging a design as a custom Vivado IP core for FPGA use.
